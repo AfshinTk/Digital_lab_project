@@ -1,8 +1,7 @@
 # Digital_lab_project
 ### Afshin Tavakolikia 9823022
 ***
-we program this project together
-The purpose in this project is to design a controller and an algorithm for two soccer robots to play against the same team and prevent scoring and score goals if possible.
+The attacker robot attemp to reach the ball and make it goal by hitting toward opponent's gate and the defender(opponent) attemp to protect the gate.
 
 ## Astrategy & Algorithms
 ### Attacker's astrategy
